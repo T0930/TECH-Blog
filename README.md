@@ -13,6 +13,6 @@
 ![Preview](Will Update)
 
 # Video and Repository Links:
-[TM-TECH-BlogRepo](https://github.com/T0930/TECH-Blog)
+[TM-TECH-Blog Repo](https://github.com/T0930/TECH-Blog)
 #
 [Placeholder](Will Update)
