@@ -20,6 +20,15 @@ router.get('/', withAuth, async (req, res) => {
     }
 });
 
+router.get('/profile', (req, res) => {
+    if (req.session.loggedIn) {
+        res.redirect('/');
+        return;
+    }
+    res.render('profile');
+});
+
+
 router.get('/login', (req, res) => {
     if (req.session.loggedIn) {
         res.redirect('/');
