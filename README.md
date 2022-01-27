@@ -1,6 +1,6 @@
 # Homework: Technology Blog
 # WORK IN PROGRESS
-## NOTE: Please see Technology Blog End containing the following:
+## NOTE: Please see Technology Blog containing the following:
 
 *  Upon initial visitation to site, user is instructed to login or create a new account
 *  Upon creation of a new account, the user's username, password (hashed), and e-mail are saved to the database
