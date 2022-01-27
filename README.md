@@ -14,7 +14,7 @@
 
 # Screen Shot:  
 
-![Preview](Will Update)
+![Preview](https://github.com/T0930/TECH-Blog/blob/main/images/techblog.png?raw=true)
 
 # Video and Repository Links:
 [TM-TECH-Blog Repo](https://github.com/T0930/TECH-Blog)
