@@ -18,4 +18,4 @@
 # Video and Repository Links:
 [TM-TECH-Blog Repo](https://github.com/T0930/TECH-Blog)
 #
-[Placeholder](Will Update)
+[Deployed Application](https://tmtechblog.herokuapp.com/)
