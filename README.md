@@ -1,5 +1,4 @@
 # Homework: Technology Blog
-# WORK IN PROGRESS
 ## NOTE: Please see Technology Blog containing the following:
 
 *  Upon initial visitation to site, user is instructed to login or create a new account
@@ -14,7 +13,7 @@
 
 # Screen Shot:  
 
-![Preview](https://github.com/T0930/TECH-Blog/blob/main/images/techblog.png?raw=true)
+![Preview](https://github.com/T0930/TECH-Blog/blob/main/images/tbs.png?raw=true)
 
 # Video and Repository Links:
 [TM-TECH-Blog Repo](https://github.com/T0930/TECH-Blog)
